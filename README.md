@@ -3,7 +3,7 @@
 
 ## 项目使用
 
-#### 登录任意大模型聊天界面，在对话前输入预设内容即可，[猫娘](https://raw.githubusercontent.com/tinygeeker/aiChatPreset/main/catgirl.txt)预设使用预览
+#### 登录任意大模型聊天界面，在对话前输入预设内容即可，[猫娘](https://raw.githubusercontent.com/tinygeeker/aiChatPreset/main/catgirl.txt)
 
 ## 预设包
 
