@@ -5,8 +5,6 @@
 
 #### 登录任意大模型聊天界面，在对话前输入预设内容即可，[猫娘](https://raw.githubusercontent.com/tinygeeker/aiChatPreset/main/catgirl.txt)预设使用预览
 
-![项目预览](https://tinygeeker.github.io/static/imgs/aiChatPreset/001.png)
-
 ## 预设包
 
 #### 这里推荐体验 `猫娘`、`dan` 预设，这里只列出了一部分预设，更多的请自己体验
